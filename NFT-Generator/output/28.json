@@ -1,0 +1,55 @@
+{
+    "name": "NFT #28",
+    "description": "Really awesome description!",
+    "image": "28.png",
+    "edition": 28,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "28.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "body3"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "hair1"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bottom Teeth"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Triangle"
+        }
+    ]
+}

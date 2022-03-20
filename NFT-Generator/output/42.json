@@ -1,0 +1,55 @@
+{
+    "name": "NFT #42",
+    "description": "Really awesome description!",
+    "image": "42.png",
+    "edition": 42,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "42.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bg3"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "body2"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "hair2"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mouth1"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "Silver Earrings"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tee"
+        }
+    ]
+}

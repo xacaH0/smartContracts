@@ -1,0 +1,55 @@
+{
+    "name": "NFT #36",
+    "description": "Really awesome description!",
+    "image": "36.png",
+    "edition": 36,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "36.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "hair3"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mouth2"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Square"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "Gold Earrings"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "eyes2"
+        }
+    ]
+}

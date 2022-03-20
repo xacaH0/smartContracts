@@ -1,0 +1,55 @@
+{
+    "name": "NFT #31",
+    "description": "Really awesome description!",
+    "image": "31.png",
+    "edition": 31,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "31.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bg3"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "body2"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bottom Teeth"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Square"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "Gold Earrings"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tee"
+        }
+    ]
+}

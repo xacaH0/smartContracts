@@ -1,0 +1,55 @@
+{
+    "name": "NFT #2",
+    "description": "Really awesome description!",
+    "image": "2.png",
+    "edition": 2,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bg1"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "body1"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "hair3"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mouth2"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Square"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "eyes1"
+        }
+    ]
+}

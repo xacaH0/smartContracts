@@ -1,0 +1,55 @@
+{
+    "name": "NFT #19",
+    "description": "Really awesome description!",
+    "image": "19.png",
+    "edition": 19,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "19.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bg3"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "body1"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "hair2"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bottom Teeth"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Square"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "Gold Earrings"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "eyes1"
+        }
+    ]
+}

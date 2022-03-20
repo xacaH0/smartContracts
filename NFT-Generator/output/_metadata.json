@@ -1,0 +1,552 @@
+[
+    {
+        "name": "NFT #0",
+        "description": "Really awesome description!",
+        "image": "0.png",
+        "edition": 0,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "0.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "bg3"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "hair3"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Smile"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Standard"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "Silver Earrings"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "eyes1"
+            }
+        ]
+    },
+    {
+        "name": "NFT #1",
+        "description": "Really awesome description!",
+        "image": "1.png",
+        "edition": 1,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "1.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "bg1"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "body2"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "hair2"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "mouth3"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "None"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Tee"
+            }
+        ]
+    },
+    {
+        "name": "NFT #2",
+        "description": "Really awesome description!",
+        "image": "2.png",
+        "edition": 2,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "2.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "bg1"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "body1"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "hair3"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "mouth2"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "None"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "eyes1"
+            }
+        ]
+    },
+    {
+        "name": "NFT #3",
+        "description": "Really awesome description!",
+        "image": "3.png",
+        "edition": 3,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "3.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "bg2"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "body1"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Cap"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "mouth2"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "Silver Earrings"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "eyes3"
+            }
+        ]
+    },
+    {
+        "name": "NFT #4",
+        "description": "Really awesome description!",
+        "image": "4.png",
+        "edition": 4,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "4.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Aqua"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "body1"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Stem"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "mouth3"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Standard"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "Gold Earrings"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Tee"
+            }
+        ]
+    },
+    {
+        "name": "NFT #5",
+        "description": "Really awesome description!",
+        "image": "5.png",
+        "edition": 5,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "5.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "bg2"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "body2"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "hair1"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "mouth2"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "None"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "eyes3"
+            }
+        ]
+    },
+    {
+        "name": "NFT #6",
+        "description": "Really awesome description!",
+        "image": "6.png",
+        "edition": 6,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "6.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Aqua"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "body3"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Stem"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "mouth1"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Standard"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "None"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "eyes2"
+            }
+        ]
+    },
+    {
+        "name": "NFT #7",
+        "description": "Really awesome description!",
+        "image": "7.png",
+        "edition": 7,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "7.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "bg2"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "body3"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Cap"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "mouth1"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Standard"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "Gold Earrings"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Tee"
+            }
+        ]
+    },
+    {
+        "name": "NFT #8",
+        "description": "Really awesome description!",
+        "image": "8.png",
+        "edition": 8,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "8.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "bg2"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "body2"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "hair1"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Smile"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Standard"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "None"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Tee"
+            }
+        ]
+    },
+    {
+        "name": "NFT #9",
+        "description": "Really awesome description!",
+        "image": "9.png",
+        "edition": 9,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "9.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "bg2"
+            },
+            {
+                "trait_type": "Pumpkin Color",
+                "value": "body1"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "hair1"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "mouth1"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Standard"
+            },
+            {
+                "trait_type": "Extras",
+                "value": "Silver Earrings"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Triangle"
+            }
+        ]
+    }
+]

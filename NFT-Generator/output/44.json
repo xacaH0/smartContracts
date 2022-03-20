@@ -1,0 +1,55 @@
+{
+    "name": "NFT #44",
+    "description": "Really awesome description!",
+    "image": "44.png",
+    "edition": 44,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "44.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "body1"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "hair2"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mouth2"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "Silver Earrings"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Triangle"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "NFT #26",
+    "description": "Really awesome description!",
+    "image": "26.png",
+    "edition": 26,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "26.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bg3"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "body2"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "hair3"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mouth3"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "Gold Earrings"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Triangle"
+        }
+    ]
+}

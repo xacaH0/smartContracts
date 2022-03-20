@@ -1,0 +1,55 @@
+{
+    "name": "NFT #34",
+    "description": "Really awesome description!",
+    "image": "34.png",
+    "edition": 34,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "34.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "body3"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Stem"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mouth3"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Square"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "eyes3"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "NFT #21",
+    "description": "Really awesome description!",
+    "image": "21.png",
+    "edition": 21,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "21.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bg2"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "body3"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "hair1"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mouth1"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "Silver Earrings"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Triangle"
+        }
+    ]
+}
